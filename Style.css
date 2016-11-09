@@ -1,0 +1,47 @@
+body {
+	font-family: 'Playfair Display', sans-serif;
+	font-size: 18px;
+	line-height: 1.4;
+	color: #88847F;
+	background: url(img/fond-bleu.jpg);
+	opacity: 5;
+	margin: 15px;
+}
+
+.fond a{
+	color: #6E6B67;
+	text-decoration: none;
+}
+
+.fond{
+	float: right;
+	width: 590px;
+	height: 580px;
+	background-color: #CDEFF5;
+	opacity: 0.5;
+}
+
+.image{
+	float: left;
+	width: 590px;
+	height: 580px;
+}
+
+h1{
+	text-align: center;
+}
+
+h3{
+	margin-left: 50px;
+}
+
+p{
+	margin-left: 30px;
+	margin-right: 60px;
+}
+
+.icon{
+	float: right;
+	width: 60px;
+	height: 60px;
+}
